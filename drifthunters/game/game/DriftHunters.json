@@ -1,5 +1,5 @@
 {
-"TOTAL_MEMORY": 1073741824,
+"ALLOW_MEMORY_GROWTH": 1,
 "dataUrl": "DriftHunters.data.unityweb",
 "asmCodeUrl": "DriftHunters.asm.code.unityweb",
 "asmMemoryUrl": "DriftHunters.asm.memory.unityweb",
