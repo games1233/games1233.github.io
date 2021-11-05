@@ -1,0 +1,9 @@
+{
+    "TOTAL_MEMORY": 268435456,
+    "dataUrl": "highway-traffic.data.unityweb",
+    "asmCodeUrl": "highway-traffic.asm.code.unityweb",
+    "asmMemoryUrl": "highway-traffic.asm.memory.unityweb",
+    "asmFrameworkUrl": "highway-traffic.asm.framework.unityweb",
+    "splashScreenStyle": "Dark",
+    "backgroundColor": "#231F20"
+}
